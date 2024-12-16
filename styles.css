@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    margin: 10px;
+    font-size: large;
+    overflow-x: hidden;
+    font-family: Nunito, sans-serif;
+    line-height: 2rem;
+}
+h1{
+    margin: 15px;
+    font-size: 40px;
+}
+p{
+    margin: 20px;
+    font-weight: 400;
+}
+.span{
+    text-align: center;
+    font-size: 12px;
+}
+a:hover{
+    color: blue;
+}
